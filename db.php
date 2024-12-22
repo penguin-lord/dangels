@@ -1,6 +1,6 @@
 <?php
 // Database connection configuration
-$servername = "localhost"; // Change if your database is hosted elsewhere
+$servername = "https://php-myadmin.net/db_structure.php?db=if0_37967785_user_management"; // Change if your database is hosted elsewhere
 $username = "root";        // Your database username
 $password = "";            // Your database password
 $dbname = "user_management"; // Your database name
